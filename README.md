@@ -1,3 +1,8 @@
+# Some Info
+We at Boxsubmus are currently developing our own internal version of the engine to work on our game. When we release said game we plan to replace this repo with that version. So this version is archived until then. Feel free to read for reference.
+
+# Old README
+
 <img align="left" src="Branding/icon_circle.png" width="140px"/>
 <h1>Fanty Engine</h1>
 
